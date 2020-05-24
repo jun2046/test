@@ -1,1 +1,7 @@
-System.out.println("hello java");
+public class helloJava {
+  public static void main(String[] args) {
+    System.out.println("hello java");
+  }
+}
+
+
